@@ -32,7 +32,6 @@
 
 ## 🚀 Featured Projects
 - 📌 **[ClubSync](#)** → A college club management app with role-based access & Firebase backend  
-- 📌 **[E-Commerce Churn Model](#)** → Achieved 96% accuracy using Logistic Regression (🏆 1st Prize @ SVIT)  
 - 📌 **[IoT Smart Irrigation](#)** → Automated irrigation system using weather + sensor data  
 
 ---
