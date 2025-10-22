@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
-<h3 align="center">CSE Student @ NGIT | AI & Web Developer | Lifelong Learner</h3>
+<h3 align="center">CSE Student @ NGIT | AI & Agentic AI | Lifelong Learner</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=nalgondalokesh&label=Profile%20views&color=0e75b6&style=flat" alt="nalgondalokesh" /> 
