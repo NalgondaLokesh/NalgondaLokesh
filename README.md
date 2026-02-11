@@ -12,8 +12,8 @@ I’m a passionate developer focused on building scalable web applications and i
 - 🌐 Full-stack developer with **MERN & Firebase** experience  
 - 🧠 Hands-on experience with **PyTorch & AI model development**  
 - 🏆 Participated in **hackathons & national-level competitions**  
-- 💡 Top contributor at **CBIT Open Source Society (CSOC)**  
-- 🧑‍💻 Internship experience at **IIIT-Delhi**
+- 💡 Top contributor at **CBIT Open Source Society (COSC)**  
+
 
 ---
 
