@@ -58,16 +58,10 @@ I’m a passionate developer focused on building scalable web applications and i
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nalgondalokesh&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nalgondalokesh&layout=compact&theme=tokyonight)
-
----
-
 ## ✨ Personal Note
 > *“Not everything goes as planned — but everything shapes you.”*  
 I believe in discipline, consistency, and building meaningful systems — one step at a time.
 
 ---
 
-⭐ If you find my work interesting, feel free to **star my repositories** and connect with me!
+
