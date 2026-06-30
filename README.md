@@ -1,67 +1,105 @@
-# Hi 👋, I'm Nalgonda Lokesh
+# Hi there 👋, I'm **Nalgonda Lokesh**
 
-🚀 AI Engineer | Full-Stack (MERN) Developer | Open-Source Contributor  
+### 🚀 Agentic AI Developer • AI Researcher • Open Source Contributor • 5× Hackathon Winner
 
-I’m a passionate developer focused on building scalable web applications and intelligent AI systems. I enjoy solving real-world problems through technology and continuously improving my skills by building, contributing, and learning.
+I'm passionate about building **intelligent AI systems** that solve real-world problems.
 
----
+My interests lie at the intersection of **Large Language Models, Agentic AI, RAG, Multi-Agent Systems, AI Infrastructure, and Deep Learning**. I enjoy designing systems that can reason, retrieve knowledge, automate workflows, and scale beyond simple AI demos.
 
-## 🌟 About Me
-- 🎓 Engineering student with strong CS fundamentals  
-- 🤖 Interested in **Machine Learning, Deep Learning & Generative AI**  
-- 🌐 Full-stack developer with **MERN & Firebase** experience  
-- 🧠 Hands-on experience with **PyTorch & AI model development**  
-- 🏆 Participated in **hackathons & national-level competitions**  
-- 💡 Top contributor at **CBIT Open Source Society (COSC)**  
-- 🔒 Most of my advanced and production-level projects are maintained in **private repositories**
+Most of my work focuses on transforming cutting-edge AI research into practical developer tools and production-ready applications.
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
 
-### 👨‍💻 Programming Languages
-`Java` `Python` `C` `JavaScript`
+* 🤖 Agentic AI Developer
+* 🧠 Building AI agents, RAG pipelines, and intelligent developer tools
+* 🔬 Interested in AI Research, LLM Systems, and AI Infrastructure
+* 🏆 **5× Hackathon Winner**
+* 🌍 Open Source Contributor
+* 📚 Constantly exploring modern AI architectures and scalable systems
+* 💻 I love turning research ideas into real products
+* 🔒 Most of my production-level AI projects remain private
 
-### 🌐 Web Development
-`React.js` `Node.js` `Express.js` `MongoDB` `Firebase`
-
-### 🤖 AI / ML
-`Machine Learning` `Deep Learning` `PyTorch`
-
-### ⚙️ Tools & Platforms
-`Git` `GitHub` `Docker` `Linux` `VS Code`
 
 ---
 
-## 🌱 Interesting Facts About Me
-- 🚀 I learn best by **building real-world systems**, not just tutorials  
-- 🧠 I enjoy **simplifying complex AI concepts**  
-- 🏆 Actively participate in hackathons and competitive tech events  
-- 🔁 I strongly believe **consistency beats motivation**  
-- 🧩 I debug problems until I truly understand *why* they happen  
-- ⚡ I enjoy deep-focus late-night coding sessions  
+# 🛠 Tech Stack
+
+### Languages
+
+`Python` `Java` `JavaScript` `C`
+
+### AI & Machine Learning
+
+`PyTorch`
+`Transformers`
+`LLMs`
+`RAG`
+`LangGraph`
+`Vector Databases`
+`Embedding Models`
+`Prompt Engineering`
+
+### Backend
+`Flask`
+`FastAPI`
+`Node.js`
+`Express.js`
+
+### Frontend
+
+`React`
+`TailwindCSS`
+
+### Databases
+
+`MongoDB`
+`Firebase`
+
+### DevOps & Tools
+
+`Git`
+`GitHub`
+`Docker`
+`Linux`
+`VS Code`
 
 ---
 
-## 📌 Currently Exploring
-- 🤖 Agentic AI & intelligent workflows  
-- 🧩 Advanced deep learning architectures  
-- 🚀 Scalable full-stack applications  
-- 🌱 Open-source contributions  
+# 🚀 What I'm Building
+
+* 🤖 AI Developer Tools
+* 🧠 AI Codebase Knowledge Graphs
+* 🔍 Intelligent Code Search Systems
+* 📄 AI-powered Document Intelligence
+* ⚙️ Multi-Agent Automation Systems
+* 🌐 End-to-End AI Applications
 
 ---
 
-## 🌐 Connect With Me
-- 🌍 **Portfolio:** [www.nalgondalokesh.me](https://www.nalgondalokesh.me)
-- 💼 **LinkedIn:** [linkedin.com/in/nalgondalokesh](https://www.linkedin.com/in/nalgondalokesh/)
-- 📧 **Email:** nalgondalokesh@gmail.com
+# 📈 What Drives Me
+
+I enjoy working on problems where software can **reason instead of just execute**.
+
+Whether it's an AI agent understanding an entire codebase, extracting knowledge from thousands of documents, or automating complex engineering workflows, I love building systems that push AI beyond chatbots.
 
 ---
 
-## ✨ Personal Note
-> *“Not everything goes as planned — but everything shapes you.”*  
+# 🌍 Connect With Me
+
+🌐 Portfolio
+**https://www.nalgondalokesh.me**
+
+💼 LinkedIn
+**https://linkedin.com/in/nalgondalokesh**
+
+📧 Email
+**[nalgondalokesh@gmail.com](mailto:nalgondalokesh@gmail.com)**
+
+---
+
+# 💭 Personal Philosophy
+
+>  *“Not everything goes as planned — but everything shapes you.”*  
 I believe in discipline, consistency, and building meaningful systems — one step at a time.
-
----
-
-
