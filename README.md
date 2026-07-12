@@ -1,105 +1,72 @@
-# Hi there 👋, I'm **Nalgonda Lokesh**
+# 👋 Hey Hi, I'm **Nalgonda Lokesh**
 
 ### 🚀 Agentic AI Developer • AI Researcher • Open Source Contributor • 5× Hackathon Winner
 
-I'm passionate about building **intelligent AI systems** that solve real-world problems.
+I build **intelligent AI systems** that solve real-world problems — from reasoning agents and RAG pipelines to developer tools and production-grade AI infrastructure.
 
-My interests lie at the intersection of **Large Language Models, Agentic AI, RAG, Multi-Agent Systems, AI Infrastructure, and Deep Learning**. I enjoy designing systems that can reason, retrieve knowledge, automate workflows, and scale beyond simple AI demos.
-
-Most of my work focuses on transforming cutting-edge AI research into practical developer tools and production-ready applications.
+My work sits at the intersection of **Large Language Models, Agentic AI, Multi-Agent Systems, Retrieval-Augmented Generation, AI Infrastructure, and Deep Learning**. I design systems that reason, retrieve, automate, and scale — moving beyond demos into real-world impact.
 
 ---
 
-# 🚀 About Me
+## 🧠 About Me
 
-* 🤖 Agentic AI Developer
-* 🧠 Building AI agents, RAG pipelines, and intelligent developer tools
-* 🔬 Interested in AI Research, LLM Systems, and AI Infrastructure
-* 🏆 **5× Hackathon Winner**
-* 🌍 Open Source Contributor
-* 📚 Constantly exploring modern AI architectures and scalable systems
-* 💻 I love turning research ideas into real products
-* 🔒 Most of my production-level AI projects remain private
-
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-`Python` `Java` `JavaScript` `C`
-
-### AI & Machine Learning
-
-`PyTorch`
-`Transformers`
-`LLMs`
-`RAG`
-`LangGraph`
-`Vector Databases`
-`Embedding Models`
-`Prompt Engineering`
-
-### Backend
-`Flask`
-`FastAPI`
-`Node.js`
-`Express.js`
-
-### Frontend
-
-`React`
-`TailwindCSS`
-
-### Databases
-
-`MongoDB`
-`Firebase`
-
-### DevOps & Tools
-
-`Git`
-`GitHub`
-`Docker`
-`Linux`
-`VS Code`
+- 🤖 **Agentic AI Developer** — building agents that think, act, and adapt
+- 🧠 Designing **RAG pipelines**, **knowledge graphs**, and **multi-agent workflows**
+- 🔬 Exploring **LLM systems**, **AI infrastructure**, and **scalable architectures**
+- 🏆 **5× Hackathon Winner** — turning bold ideas into working prototypes
+- 🌍 Active **Open Source Contributor**
+- 📚 Constantly learning — from research papers to production systems
+- 💻 Passionate about turning **research into products**
+- 🔒 Most production-grade AI projects remain private — but the vision is public
 
 ---
 
-# 🚀 What I'm Building
+## 🛠️ Tech Stack
 
-* 🤖 AI Developer Tools
-* 🧠 AI Codebase Knowledge Graphs
-* 🔍 Intelligent Code Search Systems
-* 📄 AI-powered Document Intelligence
-* ⚙️ Multi-Agent Automation Systems
-* 🌐 End-to-End AI Applications
-
----
-
-# 📈 What Drives Me
-
-I enjoy working on problems where software can **reason instead of just execute**.
-
-Whether it's an AI agent understanding an entire codebase, extracting knowledge from thousands of documents, or automating complex engineering workflows, I love building systems that push AI beyond chatbots.
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Python, Java, JavaScript, C |
+| **AI / ML** | PyTorch, Transformers, LLMs, RAG, LangGraph, Vector DBs, Embeddings, Prompt Engineering |
+| **Backend** | Flask, FastAPI, Node.js, Express.js |
+| **Frontend** | React, TailwindCSS |
+| **Databases** | MongoDB, Firebase |
+| **DevOps & Tools** | Git, GitHub, Docker, Linux, VS Code |
 
 ---
 
-# 🌍 Connect With Me
+## 🔨 What I'm Building
 
-🌐 Portfolio
-**https://www.nalgondalokesh.me**
-
-💼 LinkedIn
-**https://linkedin.com/in/nalgondalokesh**
-
-📧 Email
-**[nalgondalokesh@gmail.com](mailto:nalgondalokesh@gmail.com)**
+- 🤖 **AI Developer Tools** — enhancing developer productivity with AI
+- 🧠 **Codebase Knowledge Graphs** — semantic understanding of large codebases
+- 🔍 **Intelligent Code Search** — find what matters, fast
+- 📄 **AI-Powered Document Intelligence** — extract insights from unstructured data
+- ⚙️ **Multi-Agent Automation Systems** — orchestrate complex workflows
+- 🌐 **End-to-End AI Applications** — from prototype to production
 
 ---
 
-# 💭 Personal Philosophy
+## 💡 What Drives Me
 
->  *“Not everything goes as planned — but everything shapes you.”*  
-I believe in discipline, consistency, and building meaningful systems — one step at a time.
+I'm obsessed with building software that **reasons**, not just executes.
+
+Whether it's an AI agent navigating a codebase, extracting knowledge from thousands of documents, or automating engineering workflows — I build systems that push AI beyond chatbots and into the fabric of real-world infrastructure.
+
+---
+
+## 🌐 Connect With Me
+
+- 🌍 **Portfolio:** [nalgondalokesh.me](https://www.nalgondalokesh.me)
+- 💼 **LinkedIn:** [linkedin.com/in/nalgondalokesh](https://linkedin.com/in/nalgondalokesh)
+- 📧 **Email:** [nalgondalokesh@gmail.com](mailto:nalgondalokesh@gmail.com)
+
+---
+
+## 💭 Personal Philosophy
+
+> *"Not everything goes as planned — but everything shapes you."*
+
+I believe in **discipline, consistency, and building meaningful systems** — one commit at a time.
+
+---
+
+⭐️ *If you're building with AI, let's connect and build something legendary.*
