@@ -31,18 +31,6 @@ My work sits at the intersection of **Large Language Models, Agentic AI, Multi-A
 | **Frontend** | React, TailwindCSS |
 | **Databases** | MongoDB, Firebase |
 | **DevOps & Tools** | Git, GitHub, Docker, Linux, VS Code |
-
----
-
-## 🔨 What I'm Building
-
-- 🤖 **AI Developer Tools** — enhancing developer productivity with AI
-- 🧠 **Codebase Knowledge Graphs** — semantic understanding of large codebases
-- 🔍 **Intelligent Code Search** — find what matters, fast
-- 📄 **AI-Powered Document Intelligence** — extract insights from unstructured data
-- ⚙️ **Multi-Agent Automation Systems** — orchestrate complex workflows
-- 🌐 **End-to-End AI Applications** — from prototype to production
-
 ---
 
 ## 💡 What Drives Me
